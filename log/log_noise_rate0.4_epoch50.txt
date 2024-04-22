@@ -1,0 +1,249 @@
+loading dataset...
+Mem. usage decreased to 386.70 Mb (69.1% reduction)
+Mem. usage decreased to 85.22 Mb (71.7% reduction)
+Num of train : 449334
+Num of test : 114813
+building model...
+Evaluating ...
+Epoch [1/50] Test Accuracy on the 114813 test sequences: Model1 6.0925 % Model2 25.2889 
+Training ...
+Epoch [2/50], Iter [100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.3059 % Pure Ratio2 97.3059 %
+Epoch [2/50], Iter [200/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1765 % Pure Ratio2 97.1765 %
+Epoch [2/50], Iter [300/3510] Training Accuracy1: 91.0156, Training Accuracy2: 91.0156, Loss1: nan, Loss2: nan, Pure Ratio1 97.1817 % Pure Ratio2 97.1817 %
+Epoch [2/50], Iter [400/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1520 % Pure Ratio2 97.1520 %
+Epoch [2/50], Iter [500/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1765 % Pure Ratio2 97.1765 %
+Epoch [2/50], Iter [600/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.1784 % Pure Ratio2 97.1784 %
+Epoch [2/50], Iter [700/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1737 % Pure Ratio2 97.1737 %
+Epoch [2/50], Iter [800/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1892 % Pure Ratio2 97.1892 %
+Epoch [2/50], Iter [900/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1874 % Pure Ratio2 97.1874 %
+Epoch [2/50], Iter [1000/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1773 % Pure Ratio2 97.1773 %
+Epoch [2/50], Iter [1100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1679 % Pure Ratio2 97.1679 %
+Epoch [2/50], Iter [1200/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1908 % Pure Ratio2 97.1908 %
+Epoch [2/50], Iter [1300/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1976 % Pure Ratio2 97.1976 %
+Epoch [2/50], Iter [1400/3510] Training Accuracy1: 91.0156, Training Accuracy2: 91.0156, Loss1: nan, Loss2: nan, Pure Ratio1 97.1955 % Pure Ratio2 97.1955 %
+Epoch [2/50], Iter [1500/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1924 % Pure Ratio2 97.1924 %
+Epoch [2/50], Iter [1600/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1882 % Pure Ratio2 97.1882 %
+Epoch [2/50], Iter [1700/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1871 % Pure Ratio2 97.1871 %
+Evaluating ...
+Epoch [2/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1891 %, Pure Ratio 2 97.1891 %
+Training ...
+Epoch [3/50], Iter [100/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.0079 % Pure Ratio2 97.0079 %
+Epoch [3/50], Iter [200/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1417 % Pure Ratio2 97.1417 %
+Epoch [3/50], Iter [300/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1247 % Pure Ratio2 97.1247 %
+Epoch [3/50], Iter [400/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1604 % Pure Ratio2 97.1604 %
+Epoch [3/50], Iter [500/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.1685 % Pure Ratio2 97.1685 %
+Epoch [3/50], Iter [600/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1759 % Pure Ratio2 97.1759 %
+Epoch [3/50], Iter [700/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1665 % Pure Ratio2 97.1665 %
+Epoch [3/50], Iter [800/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1826 % Pure Ratio2 97.1826 %
+Epoch [3/50], Iter [900/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1925 % Pure Ratio2 97.1925 %
+Epoch [3/50], Iter [1000/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1874 % Pure Ratio2 97.1874 %
+Epoch [3/50], Iter [1100/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1815 % Pure Ratio2 97.1815 %
+Epoch [3/50], Iter [1200/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1847 % Pure Ratio2 97.1847 %
+Epoch [3/50], Iter [1300/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1841 % Pure Ratio2 97.1841 %
+Epoch [3/50], Iter [1400/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1828 % Pure Ratio2 97.1828 %
+Epoch [3/50], Iter [1500/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1843 % Pure Ratio2 97.1843 %
+Epoch [3/50], Iter [1600/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1890 % Pure Ratio2 97.1890 %
+Epoch [3/50], Iter [1700/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1899 % Pure Ratio2 97.1899 %
+Evaluating ...
+Epoch [3/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1890 %, Pure Ratio 2 97.1890 %
+Training ...
+Epoch [4/50], Iter [100/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.0827 % Pure Ratio2 97.0827 %
+Epoch [4/50], Iter [200/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1299 % Pure Ratio2 97.1299 %
+Epoch [4/50], Iter [300/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1549 % Pure Ratio2 97.1549 %
+Epoch [4/50], Iter [400/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1959 % Pure Ratio2 97.1959 %
+Epoch [4/50], Iter [500/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1803 % Pure Ratio2 97.1803 %
+Epoch [4/50], Iter [600/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1929 % Pure Ratio2 97.1929 %
+Epoch [4/50], Iter [700/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1794 % Pure Ratio2 97.1794 %
+Epoch [4/50], Iter [800/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1708 % Pure Ratio2 97.1708 %
+Epoch [4/50], Iter [900/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1640 % Pure Ratio2 97.1640 %
+Epoch [4/50], Iter [1000/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1819 % Pure Ratio2 97.1819 %
+Epoch [4/50], Iter [1100/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1675 % Pure Ratio2 97.1675 %
+Epoch [4/50], Iter [1200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1778 % Pure Ratio2 97.1778 %
+Epoch [4/50], Iter [1300/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1799 % Pure Ratio2 97.1799 %
+Epoch [4/50], Iter [1400/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1864 % Pure Ratio2 97.1864 %
+Epoch [4/50], Iter [1500/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1874 % Pure Ratio2 97.1874 %
+Epoch [4/50], Iter [1600/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1818 % Pure Ratio2 97.1818 %
+Epoch [4/50], Iter [1700/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1834 % Pure Ratio2 97.1834 %
+Evaluating ...
+Epoch [4/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1890 %, Pure Ratio 2 97.1890 %
+Training ...
+Epoch [5/50], Iter [100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.0751 % Pure Ratio2 97.0751 %
+Epoch [5/50], Iter [200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1779 % Pure Ratio2 97.1779 %
+Epoch [5/50], Iter [300/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1924 % Pure Ratio2 97.1924 %
+Epoch [5/50], Iter [400/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.2115 % Pure Ratio2 97.2115 %
+Epoch [5/50], Iter [500/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2182 % Pure Ratio2 97.2182 %
+Epoch [5/50], Iter [600/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2260 % Pure Ratio2 97.2260 %
+Epoch [5/50], Iter [700/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1971 % Pure Ratio2 97.1971 %
+Epoch [5/50], Iter [800/3510] Training Accuracy1: 91.4062, Training Accuracy2: 91.4062, Loss1: nan, Loss2: nan, Pure Ratio1 97.2110 % Pure Ratio2 97.2110 %
+Epoch [5/50], Iter [900/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.2148 % Pure Ratio2 97.2148 %
+Epoch [5/50], Iter [1000/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.2059 % Pure Ratio2 97.2059 %
+Epoch [5/50], Iter [1100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.2116 % Pure Ratio2 97.2116 %
+Epoch [5/50], Iter [1200/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.2095 % Pure Ratio2 97.2095 %
+Epoch [5/50], Iter [1300/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2104 % Pure Ratio2 97.2104 %
+Epoch [5/50], Iter [1400/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.2115 % Pure Ratio2 97.2115 %
+Epoch [5/50], Iter [1500/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.2026 % Pure Ratio2 97.2026 %
+Epoch [5/50], Iter [1600/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2018 % Pure Ratio2 97.2018 %
+Epoch [5/50], Iter [1700/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1972 % Pure Ratio2 97.1972 %
+Evaluating ...
+Epoch [5/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1916 %, Pure Ratio 2 97.1916 %
+Training ...
+Epoch [6/50], Iter [100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1225 % Pure Ratio2 97.1225 %
+Epoch [6/50], Iter [200/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.0573 % Pure Ratio2 97.0573 %
+Epoch [6/50], Iter [300/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1436 % Pure Ratio2 97.1436 %
+Epoch [6/50], Iter [400/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1551 % Pure Ratio2 97.1551 %
+Epoch [6/50], Iter [500/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1613 % Pure Ratio2 97.1613 %
+Epoch [6/50], Iter [600/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1680 % Pure Ratio2 97.1680 %
+Epoch [6/50], Iter [700/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1824 % Pure Ratio2 97.1824 %
+Epoch [6/50], Iter [800/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1705 % Pure Ratio2 97.1705 %
+Epoch [6/50], Iter [900/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1722 % Pure Ratio2 97.1722 %
+Epoch [6/50], Iter [1000/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1474 % Pure Ratio2 97.1474 %
+Epoch [6/50], Iter [1100/3510] Training Accuracy1: 90.6250, Training Accuracy2: 90.6250, Loss1: nan, Loss2: nan, Pure Ratio1 97.1506 % Pure Ratio2 97.1506 %
+Epoch [6/50], Iter [1200/3510] Training Accuracy1: 96.4844, Training Accuracy2: 96.4844, Loss1: nan, Loss2: nan, Pure Ratio1 97.1565 % Pure Ratio2 97.1565 %
+Epoch [6/50], Iter [1300/3510] Training Accuracy1: 91.0156, Training Accuracy2: 91.0156, Loss1: nan, Loss2: nan, Pure Ratio1 97.1630 % Pure Ratio2 97.1630 %
+Epoch [6/50], Iter [1400/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1669 % Pure Ratio2 97.1669 %
+Epoch [6/50], Iter [1500/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1794 % Pure Ratio2 97.1794 %
+Epoch [6/50], Iter [1600/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1873 % Pure Ratio2 97.1873 %
+Epoch [6/50], Iter [1700/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1841 % Pure Ratio2 97.1841 %
+Evaluating ...
+Epoch [6/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1836 %, Pure Ratio 2 97.1836 %
+Training ...
+Epoch [7/50], Iter [100/3510] Training Accuracy1: 90.2344, Training Accuracy2: 90.2344, Loss1: nan, Loss2: nan, Pure Ratio1 97.1310 % Pure Ratio2 97.1310 %
+Epoch [7/50], Iter [200/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1806 % Pure Ratio2 97.1806 %
+Epoch [7/50], Iter [300/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1852 % Pure Ratio2 97.1852 %
+Epoch [7/50], Iter [400/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1815 % Pure Ratio2 97.1815 %
+Epoch [7/50], Iter [500/3510] Training Accuracy1: 90.2344, Training Accuracy2: 90.2344, Loss1: nan, Loss2: nan, Pure Ratio1 97.1849 % Pure Ratio2 97.1849 %
+Epoch [7/50], Iter [600/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1832 % Pure Ratio2 97.1832 %
+Epoch [7/50], Iter [700/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1876 % Pure Ratio2 97.1876 %
+Epoch [7/50], Iter [800/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1890 % Pure Ratio2 97.1890 %
+Epoch [7/50], Iter [900/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1958 % Pure Ratio2 97.1958 %
+Epoch [7/50], Iter [1000/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1984 % Pure Ratio2 97.1984 %
+Epoch [7/50], Iter [1100/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.2042 % Pure Ratio2 97.2042 %
+Epoch [7/50], Iter [1200/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1918 % Pure Ratio2 97.1918 %
+Epoch [7/50], Iter [1300/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1902 % Pure Ratio2 97.1902 %
+Epoch [7/50], Iter [1400/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1840 % Pure Ratio2 97.1840 %
+Epoch [7/50], Iter [1500/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1741 % Pure Ratio2 97.1741 %
+Epoch [7/50], Iter [1600/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1761 % Pure Ratio2 97.1761 %
+Epoch [7/50], Iter [1700/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.1807 % Pure Ratio2 97.1807 %
+Evaluating ...
+Epoch [7/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1872 %, Pure Ratio 2 97.1872 %
+Training ...
+Epoch [8/50], Iter [100/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.0794 % Pure Ratio2 97.0794 %
+Epoch [8/50], Iter [200/3510] Training Accuracy1: 97.6562, Training Accuracy2: 97.6562, Loss1: nan, Loss2: nan, Pure Ratio1 97.2123 % Pure Ratio2 97.2123 %
+Epoch [8/50], Iter [300/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1984 % Pure Ratio2 97.1984 %
+Epoch [8/50], Iter [400/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.2183 % Pure Ratio2 97.2183 %
+Epoch [8/50], Iter [500/3510] Training Accuracy1: 96.4844, Training Accuracy2: 96.4844, Loss1: nan, Loss2: nan, Pure Ratio1 97.1921 % Pure Ratio2 97.1921 %
+Epoch [8/50], Iter [600/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.2262 % Pure Ratio2 97.2262 %
+Epoch [8/50], Iter [700/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.2262 % Pure Ratio2 97.2262 %
+Epoch [8/50], Iter [800/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.2267 % Pure Ratio2 97.2267 %
+Epoch [8/50], Iter [900/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2275 % Pure Ratio2 97.2275 %
+Epoch [8/50], Iter [1000/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2127 % Pure Ratio2 97.2127 %
+Epoch [8/50], Iter [1100/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2053 % Pure Ratio2 97.2053 %
+Epoch [8/50], Iter [1200/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1961 % Pure Ratio2 97.1961 %
+Epoch [8/50], Iter [1300/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.1838 % Pure Ratio2 97.1838 %
+Epoch [8/50], Iter [1400/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1735 % Pure Ratio2 97.1735 %
+Epoch [8/50], Iter [1500/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1849 % Pure Ratio2 97.1849 %
+Epoch [8/50], Iter [1600/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1890 % Pure Ratio2 97.1890 %
+Epoch [8/50], Iter [1700/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1905 % Pure Ratio2 97.1905 %
+Evaluating ...
+Epoch [8/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1938 %, Pure Ratio 2 97.1938 %
+Training ...
+Epoch [9/50], Iter [100/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 96.9323 % Pure Ratio2 96.9323 %
+Epoch [9/50], Iter [200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.0976 % Pure Ratio2 97.0976 %
+Epoch [9/50], Iter [300/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1341 % Pure Ratio2 97.1341 %
+Epoch [9/50], Iter [400/3510] Training Accuracy1: 97.2656, Training Accuracy2: 97.2656, Loss1: nan, Loss2: nan, Pure Ratio1 97.1464 % Pure Ratio2 97.1464 %
+Epoch [9/50], Iter [500/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.1546 % Pure Ratio2 97.1546 %
+Epoch [9/50], Iter [600/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1912 % Pure Ratio2 97.1912 %
+Epoch [9/50], Iter [700/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1935 % Pure Ratio2 97.1935 %
+Epoch [9/50], Iter [800/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1877 % Pure Ratio2 97.1877 %
+Epoch [9/50], Iter [900/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.2027 % Pure Ratio2 97.2027 %
+Epoch [9/50], Iter [1000/3510] Training Accuracy1: 91.4062, Training Accuracy2: 91.4062, Loss1: nan, Loss2: nan, Pure Ratio1 97.2052 % Pure Ratio2 97.2052 %
+Epoch [9/50], Iter [1100/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1963 % Pure Ratio2 97.1963 %
+Epoch [9/50], Iter [1200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1922 % Pure Ratio2 97.1922 %
+Epoch [9/50], Iter [1300/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1998 % Pure Ratio2 97.1998 %
+Epoch [9/50], Iter [1400/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1935 % Pure Ratio2 97.1935 %
+Epoch [9/50], Iter [1500/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1965 % Pure Ratio2 97.1965 %
+Epoch [9/50], Iter [1600/3510] Training Accuracy1: 95.7031, Training Accuracy2: 95.7031, Loss1: nan, Loss2: nan, Pure Ratio1 97.2004 % Pure Ratio2 97.2004 %
+Epoch [9/50], Iter [1700/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1971 % Pure Ratio2 97.1971 %
+Evaluating ...
+Epoch [9/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1950 %, Pure Ratio 2 97.1950 %
+Training ...
+Epoch [10/50], Iter [100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.3040 % Pure Ratio2 97.3040 %
+Epoch [10/50], Iter [200/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.2620 % Pure Ratio2 97.2620 %
+Epoch [10/50], Iter [300/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.2440 % Pure Ratio2 97.2440 %
+Epoch [10/50], Iter [400/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.2270 % Pure Ratio2 97.2270 %
+Epoch [10/50], Iter [500/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1968 % Pure Ratio2 97.1968 %
+Epoch [10/50], Iter [600/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1927 % Pure Ratio2 97.1927 %
+Epoch [10/50], Iter [700/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.2200 % Pure Ratio2 97.2200 %
+Epoch [10/50], Iter [800/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2200 % Pure Ratio2 97.2200 %
+Epoch [10/50], Iter [900/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.2089 % Pure Ratio2 97.2089 %
+Epoch [10/50], Iter [1000/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1996 % Pure Ratio2 97.1996 %
+Epoch [10/50], Iter [1100/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.1953 % Pure Ratio2 97.1953 %
+Epoch [10/50], Iter [1200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1937 % Pure Ratio2 97.1937 %
+Epoch [10/50], Iter [1300/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1877 % Pure Ratio2 97.1877 %
+Epoch [10/50], Iter [1400/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1900 % Pure Ratio2 97.1900 %
+Epoch [10/50], Iter [1500/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1901 % Pure Ratio2 97.1901 %
+Epoch [10/50], Iter [1600/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1910 % Pure Ratio2 97.1910 %
+Epoch [10/50], Iter [1700/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1899 % Pure Ratio2 97.1899 %
+Evaluating ...
+Epoch [10/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1953 %, Pure Ratio 2 97.1953 %
+Training ...
+Epoch [11/50], Iter [100/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1480 % Pure Ratio2 97.1480 %
+Epoch [11/50], Iter [200/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1180 % Pure Ratio2 97.1180 %
+Epoch [11/50], Iter [300/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1573 % Pure Ratio2 97.1573 %
+Epoch [11/50], Iter [400/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1620 % Pure Ratio2 97.1620 %
+Epoch [11/50], Iter [500/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1112 % Pure Ratio2 97.1112 %
+Epoch [11/50], Iter [600/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1280 % Pure Ratio2 97.1280 %
+Epoch [11/50], Iter [700/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1331 % Pure Ratio2 97.1331 %
+Epoch [11/50], Iter [800/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.1400 % Pure Ratio2 97.1400 %
+Epoch [11/50], Iter [900/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1476 % Pure Ratio2 97.1476 %
+Epoch [11/50], Iter [1000/3510] Training Accuracy1: 95.3125, Training Accuracy2: 95.3125, Loss1: nan, Loss2: nan, Pure Ratio1 97.1600 % Pure Ratio2 97.1600 %
+Epoch [11/50], Iter [1100/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1633 % Pure Ratio2 97.1633 %
+Epoch [11/50], Iter [1200/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1613 % Pure Ratio2 97.1613 %
+Epoch [11/50], Iter [1300/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1622 % Pure Ratio2 97.1622 %
+Epoch [11/50], Iter [1400/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1737 % Pure Ratio2 97.1737 %
+Epoch [11/50], Iter [1500/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.1731 % Pure Ratio2 97.1731 %
+Epoch [11/50], Iter [1600/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1753 % Pure Ratio2 97.1753 %
+Epoch [11/50], Iter [1700/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.1856 % Pure Ratio2 97.1856 %
+Evaluating ...
+Epoch [11/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1891 %, Pure Ratio 2 97.1891 %
+Training ...
+Epoch [12/50], Iter [100/3510] Training Accuracy1: 91.0156, Training Accuracy2: 91.0156, Loss1: nan, Loss2: nan, Pure Ratio1 97.3200 % Pure Ratio2 97.3200 %
+Epoch [12/50], Iter [200/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.2660 % Pure Ratio2 97.2660 %
+Epoch [12/50], Iter [300/3510] Training Accuracy1: 94.9219, Training Accuracy2: 94.9219, Loss1: nan, Loss2: nan, Pure Ratio1 97.2320 % Pure Ratio2 97.2320 %
+Epoch [12/50], Iter [400/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2480 % Pure Ratio2 97.2480 %
+Epoch [12/50], Iter [500/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.2496 % Pure Ratio2 97.2496 %
+Epoch [12/50], Iter [600/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.2440 % Pure Ratio2 97.2440 %
+Epoch [12/50], Iter [700/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.2366 % Pure Ratio2 97.2366 %
+Epoch [12/50], Iter [800/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2310 % Pure Ratio2 97.2310 %
+Epoch [12/50], Iter [900/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.2298 % Pure Ratio2 97.2298 %
+Epoch [12/50], Iter [1000/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.2240 % Pure Ratio2 97.2240 %
+Epoch [12/50], Iter [1100/3510] Training Accuracy1: 91.4062, Training Accuracy2: 91.4062, Loss1: nan, Loss2: nan, Pure Ratio1 97.2255 % Pure Ratio2 97.2255 %
+Epoch [12/50], Iter [1200/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.2193 % Pure Ratio2 97.2193 %
+Epoch [12/50], Iter [1300/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2098 % Pure Ratio2 97.2098 %
+Epoch [12/50], Iter [1400/3510] Training Accuracy1: 96.4844, Training Accuracy2: 96.4844, Loss1: nan, Loss2: nan, Pure Ratio1 97.2249 % Pure Ratio2 97.2249 %
+Epoch [12/50], Iter [1500/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.2123 % Pure Ratio2 97.2123 %
+Epoch [12/50], Iter [1600/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.2138 % Pure Ratio2 97.2138 %
+Epoch [12/50], Iter [1700/3510] Training Accuracy1: 91.7969, Training Accuracy2: 91.7969, Loss1: nan, Loss2: nan, Pure Ratio1 97.2033 % Pure Ratio2 97.2033 %
+Evaluating ...
+Epoch [12/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1920 %, Pure Ratio 2 97.1920 %
+Training ...
+Epoch [13/50], Iter [100/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.0520 % Pure Ratio2 97.0520 %
+Epoch [13/50], Iter [200/3510] Training Accuracy1: 94.5312, Training Accuracy2: 94.5312, Loss1: nan, Loss2: nan, Pure Ratio1 97.1300 % Pure Ratio2 97.1300 %
+Epoch [13/50], Iter [300/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1467 % Pure Ratio2 97.1467 %
+Epoch [13/50], Iter [400/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1720 % Pure Ratio2 97.1720 %
+Epoch [13/50], Iter [500/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.1656 % Pure Ratio2 97.1656 %
+Epoch [13/50], Iter [600/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1787 % Pure Ratio2 97.1787 %
+Epoch [13/50], Iter [700/3510] Training Accuracy1: 92.5781, Training Accuracy2: 92.5781, Loss1: nan, Loss2: nan, Pure Ratio1 97.1943 % Pure Ratio2 97.1943 %
+Epoch [13/50], Iter [800/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.2060 % Pure Ratio2 97.2060 %
+Epoch [13/50], Iter [900/3510] Training Accuracy1: 96.0938, Training Accuracy2: 96.0938, Loss1: nan, Loss2: nan, Pure Ratio1 97.2022 % Pure Ratio2 97.2022 %
+Epoch [13/50], Iter [1000/3510] Training Accuracy1: 91.4062, Training Accuracy2: 91.4062, Loss1: nan, Loss2: nan, Pure Ratio1 97.2100 % Pure Ratio2 97.2100 %
+Epoch [13/50], Iter [1100/3510] Training Accuracy1: 89.4531, Training Accuracy2: 89.4531, Loss1: nan, Loss2: nan, Pure Ratio1 97.2044 % Pure Ratio2 97.2044 %
+Epoch [13/50], Iter [1200/3510] Training Accuracy1: 94.1406, Training Accuracy2: 94.1406, Loss1: nan, Loss2: nan, Pure Ratio1 97.2047 % Pure Ratio2 97.2047 %
+Epoch [13/50], Iter [1300/3510] Training Accuracy1: 93.3594, Training Accuracy2: 93.3594, Loss1: nan, Loss2: nan, Pure Ratio1 97.2015 % Pure Ratio2 97.2015 %
+Epoch [13/50], Iter [1400/3510] Training Accuracy1: 92.9688, Training Accuracy2: 92.9688, Loss1: nan, Loss2: nan, Pure Ratio1 97.2086 % Pure Ratio2 97.2086 %
+Epoch [13/50], Iter [1500/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.2000 % Pure Ratio2 97.2000 %
+Epoch [13/50], Iter [1600/3510] Training Accuracy1: 92.1875, Training Accuracy2: 92.1875, Loss1: nan, Loss2: nan, Pure Ratio1 97.1955 % Pure Ratio2 97.1955 %
+Epoch [13/50], Iter [1700/3510] Training Accuracy1: 93.7500, Training Accuracy2: 93.7500, Loss1: nan, Loss2: nan, Pure Ratio1 97.1892 % Pure Ratio2 97.1892 %
+Evaluating ...
+Epoch [13/50] Test Accuracy on the 114813 test sequences: Model1 93.7786 % Model2 93.7786 %, Pure Ratio 1 97.1914 %, Pure Ratio 2 97.1914 %
+Training ...
